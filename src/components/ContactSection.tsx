@@ -49,7 +49,7 @@ const ContactSection = () => {
           <Box sx={{ display: "flex", alignItems: "center", gap: 1 }}>
             <LinkedInIcon style={{ color: "#d25380", fontSize: 40 }} />
             <a
-              href="https://www.linkedin.com/in/ha-nguyen-7b1b4a1b6/"
+              href="https://www.linkedin.com/in/ha-nguyen-515593273/"
               target="_blank"
               rel="noopener noreferrer"
               style={{ color: "#d25380", textDecoration: "none" }}

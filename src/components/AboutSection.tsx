@@ -104,6 +104,8 @@ const AboutSection = () => {
                 <Typography
                   component={Link}
                   href="https://www.linkedin.com/posts/ict-showroom_ictshowroom-ict-innovation-activity-7327768313701257216--mMe?utm_source=share&utm_medium=member_desktop&rcm=ACoAAELT3CEBhGcNjtyLD7lc31YkeGRmKZCv7WI"
+                  target="_blank"
+                  rel="noopener noreferrer"
                   sx={{
                     color: "#45474b",
                     fontWeight: 600,
@@ -249,6 +251,8 @@ const AboutSection = () => {
             <Typography
               component={Link}
               href="https://www.linkedin.com/posts/ict-showroom_ictshowroom-ict-innovation-activity-7327768313701257216--mMe?utm_source=share&utm_medium=member_desktop&rcm=ACoAAELT3CEBhGcNjtyLD7lc31YkeGRmKZCv7WI"
+              target="_blank"
+              rel="noopener noreferrer"
               sx={{
                 color: "#45474b",
                 fontWeight: 600,
